@@ -1,6 +1,0 @@
-#!/bin/bash
-
-cd /home/fabrizio/Desktop/test
-git add .
-git commit
-git push
