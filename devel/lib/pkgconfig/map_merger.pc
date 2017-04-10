@@ -1,0 +1,8 @@
+prefix=/home/fabrizio/ros_indigo_external/devel
+
+Name: map_merger
+Description: Description of map_merger
+Version: 0.1.6
+Cflags: -I/home/fabrizio/ros_indigo_external/devel/include
+Libs: -L/home/fabrizio/ros_indigo_external/devel/lib 
+Requires: message_runtime adhoc_communication nav_msgs roscpp

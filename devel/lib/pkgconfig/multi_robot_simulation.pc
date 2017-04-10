@@ -1,0 +1,8 @@
+prefix=/home/fabrizio/ros_indigo_external/devel
+
+Name: multi_robot_simulation
+Description: Description of multi_robot_simulation
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/fabrizio/ros_indigo_external/devel/lib 
+Requires: 
